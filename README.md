@@ -74,4 +74,4 @@ The design files for this CNC case are released under the **OHL CERN v2-S** lice
 
 ## Contributing & Feedback
 
-Have you machined your own? I'd love to see it! Feel free to open an issue or a pull request, or send me a message on [Ko-Fi](https://ko-fi.com/tuxedomakes). If you have suggestions for improving the design or find any issues, please open an issue in the repository.
+Have you machined your own? I'd love to see it! Feel free to open an issue or a pull request. If you have suggestions for improving the design or find any issues, please open an issue in the repository.
