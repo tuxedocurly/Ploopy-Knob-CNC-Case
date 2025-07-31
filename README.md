@@ -29,7 +29,7 @@ This custom case is machined from a solid block of maple. It's designed as a dro
 
 This section is for those who have access to a CNC mill and 3D printer and want to create their own case.
 
-## Machining & Finishing
+## 3D Printing
 
 To keep the bearing and magnets in place in the case, you'll need some 3D printed parts.
 
@@ -45,8 +45,8 @@ Machining this part is a reasonably straightforward process. The primary challen
     * Face the top of the stock.
     * Machine the outer profile.
     * Machine the main internal pocket for the PCB.
-    * Machine the pocket for the rotary encoder.
-    * Spot drill and drill the holes for the bottom plate screws.
+    * Machine the profile for the bearing.
+    * Drill the holes for the bottom plate screws.
 6.  **Finishing:**
     * **Sand:** Carefully sand all surfaces and remove any stray fibers that will otherwise interfere with the fitment.
     * **USB C Cutout:** There are many ways to do this, but a simple, albeit manual, method is to drill a hole into the face where the USB C port will be located, then use a small round file or rotary tool to carefully match the profile of the usb C port. Insert the pcb into the bottom case to check the fit as you go.
